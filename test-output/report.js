@@ -176,15 +176,13 @@ formatter.match({
   "location": "AdminStepDefinition.user_is_on_Login_Page()"
 });
 formatter.result({
-  "duration": 8648459800,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "AdminStepDefinition.title_of_login_page_is_Administrator_Login()"
 });
 formatter.result({
-  "duration": 14828900,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -200,29 +198,25 @@ formatter.match({
   "location": "AdminStepDefinition.user_enters_and(String,String)"
 });
 formatter.result({
-  "duration": 261287500,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "AdminStepDefinition.user_clicks_on_login_button()"
 });
 formatter.result({
-  "duration": 94186200,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "AdminStepDefinition.user_is_on_home_page()"
 });
 formatter.result({
-  "duration": 5750824500,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "AdminStepDefinition.user_moves_to_Add_Admins_page()"
 });
 formatter.result({
-  "duration": 11323594600,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -238,8 +232,7 @@ formatter.match({
   "location": "AdminStepDefinition.user_Enters_fname_and_lname(String,String)"
 });
 formatter.result({
-  "duration": 245298700,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -255,8 +248,7 @@ formatter.match({
   "location": "AdminStepDefinition.user_Enters_email_and_password(String,String)"
 });
 formatter.result({
-  "duration": 251940300,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -268,14 +260,12 @@ formatter.match({
   "location": "AdminStepDefinition.user_selects_country(String)"
 });
 formatter.result({
-  "duration": 422057500,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "AdminStepDefinition.close_the_browser()"
 });
 formatter.result({
-  "duration": 4979581200,
-  "status": "passed"
+  "status": "skipped"
 });
 });

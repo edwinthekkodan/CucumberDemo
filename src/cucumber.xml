@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="31.992059">
-    <testcase classname="Php Travels Add Admins" name="Adding Admins Scenario" time="31.992059">
-        <system-out><![CDATA[Given User is on Login Page.................................................passed
-When Title of login page is Administrator Login.............................passed
-Then User enters "admin@phptravels.com" and "demoadmin".....................passed
-Then User clicks on login button............................................passed
-Then User is on home page...................................................passed
-Then User moves to Add Admins page..........................................passed
-Then User Enters "dean" and "joan"..........................................passed
-Then user enters "dejo@xyz.com" and "dj123".................................passed
-Then User selects "India"...................................................passed
-Then Close the browser......................................................passed
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="0">
+    <testcase classname="Php Travels Add Admins" name="Adding Admins Scenario" time="0">
+        <system-out><![CDATA[Given User is on Login Page.................................................skipped
+When Title of login page is Administrator Login.............................skipped
+Then User enters "admin@phptravels.com" and "demoadmin".....................skipped
+Then User clicks on login button............................................skipped
+Then User is on home page...................................................skipped
+Then User moves to Add Admins page..........................................skipped
+Then User Enters "dean" and "joan"..........................................skipped
+Then user enters "dejo@xyz.com" and "dj123".................................skipped
+Then User selects "India"...................................................skipped
+Then Close the browser......................................................skipped
 ]]></system-out>
     </testcase>
 </testsuite>

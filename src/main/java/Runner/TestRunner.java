@@ -11,7 +11,7 @@ import cucumber.api.junit.Cucumber;
 		glue = {"stepDefinitions"}, //path of the step definition file 
 		format = {"pretty","html:test-output", "junit:src/cucumber.xml"}, //used to generate reports in different formats 
 		monochrome = true, //display the console output in a proper readable format 
-		dryRun = false, //check the completeness of the stepDefinition file wrt the feature file 
+		dryRun = true, //check the completeness of the stepDefinition file wrt the feature file 
 		strict = true // fails the execution if there are any undefined steps
 )
 
